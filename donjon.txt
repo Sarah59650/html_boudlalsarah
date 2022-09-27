@@ -1,0 +1,22 @@
+D2   <div id="dungeon" class="flex >
+justify-center</div>
+D3  <div id="dungeon" class="flex >
+justify-around</div>
+D4  <div id="dungeon" class="flex >
+justify-between</div>
+D5  <div id="dungeon" class="flex >
+items-center</div>
+d6 items-center justify-center
+d7 items-end justify-around
+d8 <div id="dungeon" class="flex >flex-row-reverse</div>
+d9<div id="dungeon" class="flex >flex-col</div>
+d10 <div id="dungeon" class="flex >
+flex-col-reverse items-end justify-center </div>
+d11 order-last
+d12 order-first
+d13 self-center
+d14 order-last self-end
+d15 flex-wrap
+d16 flex-wrap-reverse justify-end 
+d17 content-between
+d18 flex-wrap-reverse justify-center content-center 
